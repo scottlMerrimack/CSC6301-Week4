@@ -1,8 +1,15 @@
 # CSC6301-Week4
 Java program using two classes that sort an array of integers entered by the user.  This code reuses the java.util.linkedlists.
 
+# Version
+Current Version v1.0.0
+released September 24, 2024
+
+To run this program
+- **Java**: JDK version 17 (or higher)
+
 All files are contained in the t-scott-week4 folder.
-Download folders and run the following from t-scott-week4 or any folder you drop the files into.
+Download the zip file and run the following from t-scott-week4 or any folder you drop the files into.
 javac -d bin *.java to create the bin folder and create the class files.
 java -cp bin Main.java to run the Main class.
 
